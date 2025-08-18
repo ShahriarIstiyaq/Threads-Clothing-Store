@@ -27,7 +27,7 @@ A visually appealing, responsive e-commerce website for a modern clothing brand.
 
 1. **Clone the repository:**
    ```powershell
-   git clone <your-repo-url>
+   git clone https://github.com/istiyaq13/Threads-Clothing-Store.git
    ```
 2. **Navigate to the project directory:**
    ```powershell
