@@ -23,6 +23,11 @@ A visually appealing, responsive e-commerce website for a modern clothing brand.
 - JavaScript (Vanilla)
 - JSON (for product data)
 
+## Check Live Demo
+   ```powershell
+   https://istiyaq13.github.io/Threads-Clothing-Store/
+   ```
+
 ## Getting Started
 
 1. **Clone the repository:**
