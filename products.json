@@ -1,0 +1,135 @@
+{
+  "featuredProducts": [
+    {
+      "id": "f1",
+      "image": "img/products/hoodie1.png",
+      "brand": "Threads",
+      "name": "Black Orb",
+      "rating": 4,
+      "price": 780
+    },
+    {
+      "id": "f2", 
+      "image": "img/products/hoodie5.png",
+      "brand": "Threads",
+      "name": "Bright Light",
+      "rating": 5,
+      "price": 800
+    },
+    {
+      "id": "f3",
+      "image": "img/products/aktsuki.png", 
+      "brand": "Threads",
+      "name": "Knight Slayer",
+      "rating": 4,
+      "price": 780
+    },
+    {
+      "id": "f4",
+      "image": "img/products/hoodie2.png",
+      "brand": "Threads",
+      "name": "Grey blossom",
+      "rating": 5,
+      "price": 780
+    },
+    {
+      "id": "f5",
+      
+      "image": "img/products/jacket2.png",
+      "brand": "Threads",
+      "name": "Celestial Black",
+      "rating": 3,
+      "price": 700
+    },
+    {
+      "id": "f6",
+      "image": "img/products/sweat2.png",
+      "brand": "Threads",
+      "name": "Solar Ember",
+      "rating": 4,
+      "price": 780
+    },
+    {
+      "id": "f7",
+      "image": "img/products/shirt1.png",
+      "brand": "Threads",
+      "name": "Moonlit Black",
+      "rating": 4,
+      "price": 900
+    },
+    {
+      "id": "f8",
+      "image": "img/products/jacket1.png",
+      "brand": "Threads",
+      "name": "Eclipse Whispers",
+      "rating": 5,
+      "price": 950
+    }
+  ],
+  "newArrivals": [
+    {
+      "id": "n1",
+      "image": "img/products/n1.png",
+      "brand": "Threads",
+      "name": "PetalWhisper",
+      "rating": 4,
+      "price": 780
+    },
+    {
+      "id": "n2",
+      "image": "img/products/n2.png",
+      "brand": "Threads",
+      "name": "Cosmo Voyager",
+      "rating": 4,
+      "price": 800
+    },
+    {
+      "id": "n3",
+      "image": "img/products/n3.png",
+      "brand": "Threads",
+      "name": "Meadow Mist",
+      "rating": 3,
+      "price": 700
+    },
+    {
+      "id": "n4",
+      "image": "img/products/n4.png",
+      "brand": "Threads",
+      "name": "Blossom Vibe",
+      "rating": 4,
+      "price": 780
+    },
+    {
+      "id": "n5",
+      "image": "img/products/n5.png",
+      "brand": "Threads",
+      "name": "Luxe Tee",
+      "rating": 4,
+      "price": 700
+    },
+    {
+      "id": "n6",
+      "image": "img/products/n6.png",
+      "brand": "Threads",
+      "name": "Urban Shorts",
+      "rating": 4,
+      "price": 500
+    },
+    {
+      "id": "n7",
+      "image": "img/products/n7.png",
+      "brand": "Threads",
+      "name": "Aurora Fade",
+      "rating": 4,
+      "price": 750
+    },
+    {
+      "id": "n8",
+      "image": "img/products/n8.png",
+      "brand": "Threads",
+      "name": "Timeless Tee",
+      "rating": 4,
+      "price": 650
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Yesteryear-Regular
+font link: https://fonts.google.com/specimen/Yesteryear
+font author: Astigmatic
+font author site: http://www.astigmatic.com/
+Slogan Font: Yesteryear-Regular
+
+
+fontColor: {"hex":"#000000"}
+bgColor: {"hex":"transparent"}
+
+sloganColor: {"hex":"#000000"}
+      
