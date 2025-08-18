@@ -3,6 +3,10 @@
 
 A visually appealing, responsive e-commerce website for a modern clothing brand. This single-page application allows users to browse products, manage their shopping cart, and experience a seamless online shopping journey. Built with HTML, CSS, and JavaScript, the project emphasizes clean UI/UX and interactive features.
 
+
+## 🚀 Live Demo
+[View the live site here](https://istiyaq13.github.io/Threads-Clothing-Store/)
+
 ## Features
 
 - **Responsive Navbar:** Easy navigation across all sections and devices.
@@ -23,10 +27,6 @@ A visually appealing, responsive e-commerce website for a modern clothing brand.
 - JavaScript (Vanilla)
 - JSON (for product data)
 
-## Check Live Demo
-   ```powershell
-   https://istiyaq13.github.io/Threads-Clothing-Store/
-   ```
 
 ## Getting Started
 
