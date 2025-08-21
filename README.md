@@ -24,7 +24,7 @@ A visually appealing, responsive e-commerce website for a modern clothing brand.
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - JSON (for product data)
 
 
